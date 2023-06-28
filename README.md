@@ -3,7 +3,7 @@
 
 #### Featured
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariangle&repo=typing-test-ts&theme=transparent)](https://github.com/mariangle/typing-test-ts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariangle&repo=typing-test-ts)](https://github.com/mariangle/typing-test-ts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariangle&repo=craftdesign-website)](https://github.com/mariangle/craftdesign-website)
 
 ---
